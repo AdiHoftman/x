@@ -1,0 +1,8 @@
+.simplebar-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 40%;
+  background-color:rgb(255, 115, 139);
+}
+
+/*# sourceMappingURL=simplebar.css.map */
